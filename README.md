@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=iMilad&show_icons=true&count_private=true&theme=dark)
+
 
 <!--
+![](https://github-readme-stats.vercel.app/api?username=iMilad&show_icons=true&count_private=true&theme=dark)
 **iMilad/iMilad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
